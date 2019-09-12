@@ -1,0 +1,18 @@
+body  {background-color:#000000; font-family:"Times New Roman", Times, serif; font-size:16px; color:#FFFFFF; text-align: center;}
+
+a:link {color:#EEE2D2;}
+
+a:visited {color:#FEB63D;}
+
+a:active {color:#F91900;}
+
+a:hover {color:#FFA328;  -moz-box-shadow: 0 0 10px #ccc; -webkit-box-shadow: 0 0 10px #ccc; box-shadow: 0 0 10px #ccc; }
+
+.style1 {color: #FFCC00; font-family: DeadPostMan; }
+.style13 {font-size: large; font-family: Alien; }
+.style15 {color: #999999;}
+.style16 {font-size: medium;}
+.style17 {color: #CCCCCC;	font-size: x-small;}
+.style20 {color: #993300; font-family: DarkWind;}
+
+footer {margin:auto; padding:12px;}
